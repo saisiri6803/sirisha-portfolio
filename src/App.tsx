@@ -154,7 +154,7 @@ function App() {
             <button
               onClick={() => {
                 const link = document.createElement('a');
-                link.href = '/src/assets/Sai_Sirisha_Sabbella_UI_Developer.pdf';
+                link.href = '/src/assets/Sai_Sirisha_Sabbella_Resume.pdf';
                 link.download = 'Sai-Sirisha-Resume.pdf';
                 link.click();
               }}
