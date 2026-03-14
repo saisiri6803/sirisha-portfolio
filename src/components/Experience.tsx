@@ -1,5 +1,5 @@
 export default function Experience(){
-    return <section id="experience" className="sm:py-8 md:py-10 lg:py-12 px-6 max-w-6xl bg-graphite-400/30 backdrop-blur-xl rounded-[3rem] mx-auto mt-8 border border-stormy-500/20 shadow-2xl">
+    return <section id="experience" className="sm:py-8 md:py-10 lg:py-12 px-6 max-w-6xl mx-auto">
         <h3 className="text-5xl font-black text-center mb-16 bg-gradient-to-r from-white via-alabaster-900 to-stormy-400 bg-clip-text text-transparent">
           Experience
         </h3>
@@ -8,11 +8,11 @@ export default function Experience(){
             <div className="flex items-start gap-6 mb-8">
               <div className="w-4 h-4 bg-gradient-to-r from-stormy-500 to-yale-500 rounded-full mt-2 flex-shrink-0 shadow-lg"></div>
               <div>
-                <h4 className="text-xl sm:text-3xl font-black text-white group-hover:text-stormy-300 mb-2">Associate Software Engineer</h4>
-                <p className="text-stormy-400 font-bold text-xl mb-1 bg-gradient-to-r from-stormy-400 to-yale-400 bg-clip-text text-transparent">
+                <h4 className="text-xl sm:text-3xl font-black text-white group-hover:text-stormy-400 mb-2">Associate Software Engineer</h4>
+                <p className="text-stormy-600 font-bold text-xl mb-1 bg-gradient-to-r from-stormy-400 to-yale-400 bg-clip-text text-transparent">
                   Accenture · Bangalore
                 </p>
-                <p className="text-yale-400 font-mono text-sm tracking-wider bg-gradient-to-r from-yale-300 to-stormy-300 bg-clip-text text-transparent">
+                <p className="text-yale-600 font-mono text-sm tracking-wider bg-gradient-to-r from-yale-300 to-stormy-300 bg-clip-text text-transparent">
                   Jun 2024 – Present
                 </p>
               </div>

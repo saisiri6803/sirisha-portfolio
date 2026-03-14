@@ -9,11 +9,11 @@ export default function Education(){
             <div className="flex items-start gap-6 mb-8">
               <div className="w-4 h-4 bg-gradient-to-r from-stormy-500 to-yale-500 rounded-full mt-2 flex-shrink-0 shadow-lg"></div>
               <div>
-                <h4 className="text-xl sm:text-3xl font-black text-white group-hover:text-stormy-300 mb-2">B.Tech Computer Science in AI & ML</h4>
-                <p className="text-stormy-400 font-bold text-xl mb-1 bg-gradient-to-r from-stormy-400 to-yale-400 bg-clip-text text-transparent">
+                <h4 className="text-xl sm:text-3xl font-black text-white group-hover:text-stormy-400 mb-2">B.Tech Computer Science in AI & ML</h4>
+                <p className="text-stormy-600 font-bold text-xl mb-1 bg-gradient-to-r from-stormy-400 to-yale-400 bg-clip-text text-transparent">
                   Gayatri Vidya Parishad College of Engineering
                 </p>
-                <p className="text-yale-400 font-mono text-sm tracking-wider bg-gradient-to-r from-yale-300 to-stormy-300 bg-clip-text text-transparent">
+                <p className="text-yale-600 font-mono text-sm tracking-wider bg-gradient-to-r from-yale-300 to-stormy-300 bg-clip-text text-transparent">
                   Jul 2020 – May 2024
                 </p>
               </div>
@@ -39,11 +39,11 @@ export default function Education(){
             <div className="flex items-start gap-6 mb-8">
               <div className="w-4 h-4 bg-gradient-to-r from-stormy-500 to-yale-500 rounded-full mt-2 flex-shrink-0 shadow-lg"></div>
               <div>
-                <h4 className="text-xl sm:text-3xl font-black text-white group-hover:text-stormy-300 mb-2">Board of Intermediate Education</h4>
-                <p className="text-stormy-400 font-bold text-xl mb-1 bg-gradient-to-r from-stormy-400 to-yale-400 bg-clip-text text-transparent">
+                <h4 className="text-xl sm:text-3xl font-black text-white group-hover:text-stormy-400 mb-2">Board of Intermediate Education</h4>
+                <p className="text-stormy-600 font-bold text-xl mb-1 bg-gradient-to-r from-stormy-400 to-yale-400 bg-clip-text text-transparent">
                   Narayana Junior College
                 </p>
-                <p className="text-yale-400 font-mono text-sm tracking-wider bg-gradient-to-r from-yale-300 to-stormy-300 bg-clip-text text-transparent">
+                <p className="text-yale-600 font-mono text-sm tracking-wider bg-gradient-to-r from-yale-300 to-stormy-300 bg-clip-text text-transparent">
                   Jun 2018 – Mar 2020
                 </p>
               </div>
@@ -69,11 +69,11 @@ export default function Education(){
             <div className="flex items-start gap-6 mb-8">
               <div className="w-4 h-4 bg-gradient-to-r from-stormy-500 to-yale-500 rounded-full mt-2 flex-shrink-0 shadow-lg"></div>
               <div>
-                <h4 className="text-xl sm:text-3xl font-black text-white group-hover:text-stormy-300 mb-2">Board of Secondary School Education</h4>
-                <p className="text-stormy-400 font-bold text-xl mb-1 bg-gradient-to-r from-stormy-400 to-yale-400 bg-clip-text text-transparent">
+                <h4 className="text-xl sm:text-3xl font-black text-white group-hover:text-stormy-400 mb-2">Board of Secondary School Education</h4>
+                <p className="text-stormy-600 font-bold text-xl mb-1 bg-gradient-to-r from-stormy-400 to-yale-400 bg-clip-text text-transparent">
                   Sri Siddhartha English Medium School
                 </p>
-                <p className="text-yale-400 font-mono text-sm tracking-wider bg-gradient-to-r from-yale-300 to-stormy-300 bg-clip-text text-transparent">
+                <p className="text-yale-600 font-mono text-sm tracking-wider bg-gradient-to-r from-yale-300 to-stormy-300 bg-clip-text text-transparent">
                   Jun 2017 – Apr 2018
                 </p>
               </div>
