@@ -20,7 +20,7 @@ export default function HeroBanner(){
             <button
               onClick={() => {
                 const link = document.createElement('a');
-                link.href = '/src/assets/Sai_Sirisha_Sabbella_Resume.pdf';
+                link.href = 'https://drive.google.com/file/d/1UcFSFO75YWftCwqclEMsmwO7krnymRe1/view?usp=sharing';
                 link.download = 'Sai-Sirisha-Resume.pdf';
                 link.click();
               }}
